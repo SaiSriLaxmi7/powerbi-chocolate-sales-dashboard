@@ -56,12 +56,6 @@ This project is an interactive Power BI dashboard built to analyze chocolate sal
 
 
 
-\## Dashboard Preview
-
-Screenshots :
-
-
-
 \## About
 
 This project was developed as part of hands-on Power BI practice and upskilling, with a focus on dashboard design, reporting, and business insight generation.
