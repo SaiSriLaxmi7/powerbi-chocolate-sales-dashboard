@@ -38,9 +38,9 @@ This project is an interactive Power BI dashboard built to analyze chocolate sal
 
 \- `data/chocolate\_shipments\_data.xlsx` - source dataset
 
-\- `assets/` - icons and visual assets used in the report
+\- `assets/` - icons, visual assets, Background used in the report
 
-\- `screenshots/` - dashboard preview images
+\- `screenshots/` - dashboard preview images 
 
 
 
